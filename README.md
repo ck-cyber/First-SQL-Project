@@ -1,1 +1,1 @@
-# First-SQL-Project
+# First-Python-Project-for beginners
